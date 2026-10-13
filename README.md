@@ -1,2 +1,17 @@
-# Frontend-portfolio
-Aspiring Frontend Developer from Pakistan Te | Skilled in HTML, CSS, and JavaScript | Passionate about building responsive, user-friendly websites | Continuously learning and improving my skills | Open to remote opportunities, internships, and collaborations. Feel free to connect with me through GitHub.
+
+Hi! I'm an aspiring Frontend Developer from Pakistan.
+I'm learning to build responsive, user-friendly websites using HTML, CSS, and JavaScript.
+Skills
+• HTML5
+• CSS3
+• JavaScript
+• Responsive Web Design
+Current Goals
+• Build responsive websites
+• Improve my JavaScript skills
+• Learn Git and GitHub
+• Create projects for my frontend portfolio
+Projects
+My projects will be added here as I complete them.
+Contact
+Feel free to connect with me through GitHub,
